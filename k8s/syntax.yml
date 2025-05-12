@@ -1,0 +1,20 @@
+# simple key values
+
+key:  value
+Name: chintu
+course: devops
+city: hyderabad
+
+# set of key values dictionaries/maps
+
+trainer:
+  name: ravi
+  course: devops
+  city: hyderabad
+
+  #mutliple items arrays/lists
+ 
+ courses:
+  - aws
+  - azure
+  - devops
